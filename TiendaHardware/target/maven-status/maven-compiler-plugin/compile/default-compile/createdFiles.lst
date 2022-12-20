@@ -1,0 +1,4 @@
+data\HardwareDAO.class
+model\Hardware.class
+data\Conexion.class
+controller\ServletControlador.class
